@@ -23,14 +23,13 @@ The internship was structured into **Levels 1, 2, and 3**, each containing tasks
 3. [Tasks](#tasks)  
    - [Level 1](#level-1)  
    - [Level 2](#level-2)  
-   - [Level 3](#level-3)  
-4. [Submission Guidelines](#submission-guidelines)  
-5. [Contributing](#contributing)  
-6. [License](#license)  
-7. [Project Organization](#project-organization)  
-8. [Relevant Links](#relevant-links)  
-9. [Contact](#contact)  
-10. [Developer](#developer)  
+   - [Level 3](#level-3)    
+4. [Contributing](#contributing)  
+5. [License](#license)  
+6. [Project Organization](#project-organization)  
+7. [Relevant Links](#relevant-links)  
+8. [Contact](#contact)  
+9. [Developer](#developer)  
 
 ---
 
