@@ -61,10 +61,10 @@ The goal was to strengthen data science skills while contributing to practical a
 
 Clone the repository and install requirements:  
 
-```bash
-git clone https://github.com/yourusername/cognifyz-internship.git
-cd cognifyz-internship
-pip install -r requirements.txt
+   ```bash
+   git clone https://github.com/yourusername/cognifyz-internship.git
+   cd cognifyz-internship
+   pip install -r requirements.txt
 
 ---
 
@@ -147,13 +147,13 @@ This project is under the Cognifyz Internship Program. Refer to Cognifyz guideli
 
 ## Project Organization
 
-```bash
-├── README.md          <- Internship project documentation  
-├── data               <- Raw & processed datasets  
-├── notebooks          <- Jupyter Notebooks for each level/task  
-├── src                <- Source scripts for data processing & modeling  
-├── requirements.txt   <- Python dependencies  
-└── outputs            <- Reports, visualizations, and results  
+   ```bash
+   ├── README.md          <- Internship project documentation  
+   ├── data               <- Raw & processed datasets  
+   ├── notebooks          <- Jupyter Notebooks for each level/task  
+   ├── src                <- Source scripts for data processing & modeling  
+   ├── requirements.txt   <- Python dependencies  
+   └── outputs            <- Reports, visualizations, and results  
 
 ---
 
