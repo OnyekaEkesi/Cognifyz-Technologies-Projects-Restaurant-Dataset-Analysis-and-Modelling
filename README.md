@@ -55,6 +55,8 @@ The goal was to strengthen data science skills while contributing to practical a
 - Jupyter Notebook / Google Colab  
 - Packages: pandas, numpy, matplotlib, seaborn, scikit-learn, folium, plotly  
 
+---
+
 ### Installation  
 
 Clone the repository and install requirements:  
@@ -64,72 +66,57 @@ git clone https://github.com/yourusername/cognifyz-internship.git
 cd cognifyz-internship
 pip install -r requirements.txt
 
+---
+
 ### Usage
 
 To run Jupyter Notebooks:
 
-```bash
 jupyter notebook
 
-
 Or use Google Colab by uploading the .ipynb files.
+
+---
 
 ## Tasks
 ### Level 1
 
-Data Exploration & Preprocessing
+- **Data Exploration & Preprocessing.**
+- **Identify dataset size (rows, columns).**
+- **Handle missing values.**
+- **Perform data type conversions.**
+- **Analyze target variable distribution ("Aggregate rating").**
 
-Identify dataset size (rows, columns).
+#### Descriptive Analysis
+- **Compute statistical measures (mean, median, std, etc.).**
+- **Explore categorical distributions: Country Code, City, Cuisines.**
+- **Identify top cuisines and cities with the highest restaurant counts.**
 
-Handle missing values.
-
-Perform data type conversions.
-
-Analyze target variable distribution ("Aggregate rating").
-
-Descriptive Analysis
-
-Compute statistical measures (mean, median, std, etc.).
-
-Explore categorical distributions: Country Code, City, Cuisines.
-
-Identify top cuisines and cities with the highest restaurant counts.
-
-Geospatial Analysis
-
-Map restaurant locations using latitude/longitude.
-
-Analyze city/country restaurant distributions.
-
-Correlate location with ratings.
+#### Geospatial Analysis
+- **Map restaurant locations using latitude/longitude.**
+- **Analyze city/country restaurant distributions.**
+- **Correlate location with ratings.**
 
 ### Level 2
 
-Table Booking & Online Delivery
+- **Table Booking & Online Delivery**
+- **% of restaurants offering booking/delivery.**
+- **Compare ratings: with vs. without booking.**
+- **Analyze delivery availability across price ranges.**
 
-% of restaurants offering booking/delivery.
+#### Price Range Analysis
+- **Identify most common price ranges.**
+- **Compute average ratings per price range.**
+- **Highlight top-performing price ranges by color coding.**
 
-Compare ratings: with vs. without booking.
+#### Feature Engineering
 
-Analyze delivery availability across price ranges.
-
-Price Range Analysis
-
-Identify most common price ranges.
-
-Compute average ratings per price range.
-
-Highlight top-performing price ranges by color coding.
-
-Feature Engineering
-
-Extract new features (e.g., restaurant name length, address length).
-
-Encode categorical features into binary/ordinal features.
+- **Extract new features (e.g., restaurant name length, address length).**
+- **Encode categorical features into binary/ordinal features.**
 
 ### Level 3
 
-Predictive Modeling
+- **Predictive Modeling**
 
 Build regression models to predict Aggregate Rating.
 
