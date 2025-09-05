@@ -65,6 +65,7 @@ Clone the repository and install requirements:
    git clone https://github.com/yourusername/cognifyz-internship.git
    cd cognifyz-internship
    pip install -r requirements.txt
+   ```
 
 ---
 
@@ -153,7 +154,8 @@ This project is under the Cognifyz Internship Program. Refer to Cognifyz guideli
    ├── notebooks          <- Jupyter Notebooks for each level/task  
    ├── src                <- Source scripts for data processing & modeling  
    ├── requirements.txt   <- Python dependencies  
-   └── outputs            <- Reports, visualizations, and results```  
+   └── outputs            <- Reports, visualizations, and results
+   ```  
 
 ---
 
