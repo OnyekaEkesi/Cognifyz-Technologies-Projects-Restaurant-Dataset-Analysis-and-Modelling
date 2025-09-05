@@ -81,7 +81,7 @@ Or use Google Colab by uploading the .ipynb files.
 ## Tasks
 ### Level 1
 
-- **Data Exploration & Preprocessing.**
+#### Data Exploration & Preprocessing.
 - **Identify dataset size (rows, columns).**
 - **Handle missing values.**
 - **Perform data type conversions.**
@@ -99,7 +99,7 @@ Or use Google Colab by uploading the .ipynb files.
 
 ### Level 2
 
-- **Table Booking & Online Delivery**
+#### Table Booking & Online Delivery**
 - **% of restaurants offering booking/delivery.**
 - **Compare ratings: with vs. without booking.**
 - **Analyze delivery availability across price ranges.**
@@ -116,47 +116,34 @@ Or use Google Colab by uploading the .ipynb files.
 
 ### Level 3
 
-- **Predictive Modeling**
+#### Predictive Modeling
+- **Build regression models to predict Aggregate Rating.**
+- **Compare algorithms (Linear Regression, Decision Trees, Random Forest).**
+- **Evaluate models with performance metrics.**
 
-Build regression models to predict Aggregate Rating.
+#### Customer Preference Analysis
+- **Relationship between cuisine type and ratings.**
+- **Identify popular cuisines based on votes.**
+- **Highlight cuisines with consistently high ratings.**
 
-Compare algorithms (Linear Regression, Decision Trees, Random Forest).
+#### Data Visualization
+- **Visualize rating distributions (histograms, bar plots).**
+- **Compare cuisines/cities by average ratings.**
+- **Explore feature-target relationships using plots.**
 
-Evaluate models with performance metrics.
-
-Customer Preference Analysis
-
-Relationship between cuisine type and ratings.
-
-Identify popular cuisines based on votes.
-
-Highlight cuisines with consistently high ratings.
-
-Data Visualization
-
-Visualize rating distributions (histograms, bar plots).
-
-Compare cuisines/cities by average ratings.
-
-Explore feature-target relationships using plots.
-
-## Submission Guidelines
-
-Create a video presentation showcasing internship work.
-
-Upload video to LinkedIn tagging Cognifyz Technologies.
-
-Use hashtags: #cognifyz #cognifyzTech #cognifyzTechnologies.
-
-Maintain academic integrity (no plagiarism/copy-paste).
+---
 
 ## Contributing
 
 Contributions are welcome. Please fork the repository and create a pull request for improvements.
 
+---
+
 ## License
 
 This project is under the Cognifyz Internship Program. Refer to Cognifyz guidelines for usage terms.
+
+---
 
 ## Project Organization
 
@@ -168,6 +155,8 @@ This project is under the Cognifyz Internship Program. Refer to Cognifyz guideli
 ├── requirements.txt   <- Python dependencies  
 └── outputs            <- Reports, visualizations, and results  
 
+---
+
 ## Relevant Links
 
 🌐 Cognifyz Website: www.cognifyz.com
@@ -176,11 +165,7 @@ This project is under the Cognifyz Internship Program. Refer to Cognifyz guideli
 
 📱 LinkedIn: @cognifyz-technologies
 
-## Contact
-
-Email: contact@cognifyz.com
-
-Instagram: @cognifyz_tech
+---
 
 ## Developer
 
