@@ -170,4 +170,4 @@ This project is under the Cognifyz Internship Program. Refer to Cognifyz guideli
 
 ## Developer
 
-- **Onyeka Ekesi – Data Science Intern**
+- **Onyekachukwu Ekesi – Data Science Intern**
