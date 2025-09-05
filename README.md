@@ -63,3 +63,138 @@ Clone the repository and install requirements:
 git clone https://github.com/yourusername/cognifyz-internship.git
 cd cognifyz-internship
 pip install -r requirements.txt
+
+### Usage
+
+To run Jupyter Notebooks:
+
+```bash
+jupyter notebook
+
+
+Or use Google Colab by uploading the .ipynb files.
+
+## Tasks
+### Level 1
+
+Data Exploration & Preprocessing
+
+Identify dataset size (rows, columns).
+
+Handle missing values.
+
+Perform data type conversions.
+
+Analyze target variable distribution ("Aggregate rating").
+
+Descriptive Analysis
+
+Compute statistical measures (mean, median, std, etc.).
+
+Explore categorical distributions: Country Code, City, Cuisines.
+
+Identify top cuisines and cities with the highest restaurant counts.
+
+Geospatial Analysis
+
+Map restaurant locations using latitude/longitude.
+
+Analyze city/country restaurant distributions.
+
+Correlate location with ratings.
+
+### Level 2
+
+Table Booking & Online Delivery
+
+% of restaurants offering booking/delivery.
+
+Compare ratings: with vs. without booking.
+
+Analyze delivery availability across price ranges.
+
+Price Range Analysis
+
+Identify most common price ranges.
+
+Compute average ratings per price range.
+
+Highlight top-performing price ranges by color coding.
+
+Feature Engineering
+
+Extract new features (e.g., restaurant name length, address length).
+
+Encode categorical features into binary/ordinal features.
+
+### Level 3
+
+Predictive Modeling
+
+Build regression models to predict Aggregate Rating.
+
+Compare algorithms (Linear Regression, Decision Trees, Random Forest).
+
+Evaluate models with performance metrics.
+
+Customer Preference Analysis
+
+Relationship between cuisine type and ratings.
+
+Identify popular cuisines based on votes.
+
+Highlight cuisines with consistently high ratings.
+
+Data Visualization
+
+Visualize rating distributions (histograms, bar plots).
+
+Compare cuisines/cities by average ratings.
+
+Explore feature-target relationships using plots.
+
+## Submission Guidelines
+
+Create a video presentation showcasing internship work.
+
+Upload video to LinkedIn tagging Cognifyz Technologies.
+
+Use hashtags: #cognifyz #cognifyzTech #cognifyzTechnologies.
+
+Maintain academic integrity (no plagiarism/copy-paste).
+
+## Contributing
+
+Contributions are welcome. Please fork the repository and create a pull request for improvements.
+
+## License
+
+This project is under the Cognifyz Internship Program. Refer to Cognifyz guidelines for usage terms.
+
+## Project Organization
+
+```bash
+├── README.md          <- Internship project documentation  
+├── data               <- Raw & processed datasets  
+├── notebooks          <- Jupyter Notebooks for each level/task  
+├── src                <- Source scripts for data processing & modeling  
+├── requirements.txt   <- Python dependencies  
+└── outputs            <- Reports, visualizations, and results  
+
+## Relevant Links
+
+🌐 Cognifyz Website: www.cognifyz.com
+
+📧 Contact: contact@cognifyz.com
+
+📱 LinkedIn: @cognifyz-technologies
+
+## Contact
+
+Email: contact@cognifyz.com
+
+Instagram: @cognifyz_tech
+
+## Developer
+
+- **Onyeka Ekesi – Data Science Intern**
